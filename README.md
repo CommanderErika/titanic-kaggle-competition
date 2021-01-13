@@ -15,11 +15,9 @@ This Repository / Notbook aims to show how the Exploratory Data Analysis (EDA) w
   * Matplotlib
   * SkLearn
 
-## Notebook:
-
 ## Analíse Explorátoria dos Dados:
 
-# [Figura 1](/1.png)
+![Figura 1](Images/1.png)
 
 ## Pré-Processamento:
   * Lidando com dados faltantes
