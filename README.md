@@ -31,7 +31,7 @@ This Repository / Notbook aims to show how the Exploratory Data Analysis (EDA) w
   
 ## Modelos/Models Criados:
 
-Além de criar diferentes tipos de modelos, foi-se feito um Tuning utilizando Grid Search para melhorar os diferentes tipos de parâmetros para cada tipo de modelo de aprendizado de maquina.
+Além de criar diferentes tipos de modelos, foi-se feito um Tuning utilizando Grid Search para melhorar os diferentes tipos de Hyperparâmetros para cada tipo de modelo de aprendizado de maquina.
 
   * Support Vector Machine (SMV) - Acurácia de 80%
   * Decision Tree - Acurácia de 78%
