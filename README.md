@@ -17,11 +17,16 @@ This Repository / Notbook aims to show how the Exploratory Data Analysis (EDA) w
 
 ## Analíse Explorátoria dos Dados:
 
-![Figura 1](Images/1.png)
+![Figura 1](images/1.png)
+![Figura 2](images/2.png)
+![Figura 3](images/3.png)
+![Figura 4](images/4.png)
+![Figura 5](images/5.png)
+![Figura 6](images/6.png)
 
 ## Pré-Processamento:
   * Lidando com dados faltantes
-  * OneHot Encoding
+  * One HotEncoding
   * Normmalização dos dados
   
 ## Modelos/Models Criados:
